@@ -1,9 +1,9 @@
 package com.geeganage.learnspring.game;
 
 public class GameRunner {
-	MarioGame game;
+private	GamingConsole game;
 	
-	public GameRunner(MarioGame game) {
+	public GameRunner(GamingConsole game) {
 		this.game=game;
 	}
 
