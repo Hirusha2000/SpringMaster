@@ -1,4 +1,4 @@
-package com.geeganage.learnspring;
+package com.geeganage.learnspring.helloworld;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
